@@ -42,7 +42,7 @@ https://cfx.re/join/xvmg45
 ### 🌐 Discord
 [👉 Rejoins notre communauté ici](https://dsc.gg/spaceshiprp)
 
-[🛒 Visite notre boutique ici](https://spaceshiptp.tebex.io)
+[🛒 Visite notre boutique ici](https://spaceshiprp.tebex.io)
 
 ---
 
@@ -65,5 +65,5 @@ https://cfx.re/join/xvmg45
 
 ## 📜 Licence
 
-Ce projet n'est pas distribué en ppen source !
+Ce projet n'est pas distribué en open source !
 Tu peux rejoindre le serveur, mais tu ne trouvera pas le code !
