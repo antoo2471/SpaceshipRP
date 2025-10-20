@@ -46,14 +46,6 @@ https://cfx.re/join/xvmg45
 
 ---
 
-## 📸 Aperçu
-
-| Ville | Police | Métiers |  
-|:-----:|:------:|:--------:|  
-| ![Ville](https://cdn.discordapp.com/attachments/1418291102053695671/banner.png) | ![Police](https://cdn.discordapp.com/attachments/1416860906712989827/1418697255392907315/classic.png) | ![Métiers](https://cdn.discordapp.com/attachments/1418291102053695671/banner.png) |  
-
----
-
 ## 🧩 Frameworks principaux
 
 - [ESX Legacy](https://github.com/esx-framework/esx-legacy)  
